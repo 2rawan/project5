@@ -233,3 +233,9 @@ ul li a:hover {
 .icons ion-icon:hover{
     color: #ff7200;
 }
+.Sign {
+  text-align: center;
+  color: #ff7200;
+  text-decoration: none;
+  display: block;
+}
